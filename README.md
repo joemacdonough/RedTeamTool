@@ -1,5 +1,5 @@
 # RedTeamTool
-Windows 10 c2 backdoor based off the villain tool, obfuscated to avoid windows defender detection
+Windows 10 c2 backdoor based off the villain tool, obfuscated to avoid windows defender detection. This is a tool build for a red/blue team competition and should not be used for malicious purposes.
 
 **TO USE**
 - Attacker machine:
